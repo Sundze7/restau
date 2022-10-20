@@ -1,0 +1,102 @@
+{
+  "user": [
+    {
+      "name": "Anne",
+      "email": "anne@test",
+      "password": 123,
+      "id": 1
+    },
+    {
+      "name": "Peter",
+      "email": "peter@test",
+      "password": 465,
+      "id": 2
+    },
+    {
+      "email": "tom@g.com",
+      "password": "123",
+      "name": "tom",
+      "id": 3
+    },
+    {
+      "email": "bruce@gmail.com",
+      "password": "123",
+      "name": "Bruce",
+      "id": 4
+    },
+    {
+      "email": "tony@gmail.com",
+      "password": "123",
+      "name": "Tony",
+      "id": 5
+    },
+    {
+      "email": "tony@gmail.com",
+      "password": "123",
+      "name": "",
+      "id": 6
+    },
+    {
+      "email": "tony@gmail.com",
+      "password": "123",
+      "name": "",
+      "id": 7
+    },
+    {
+      "email": "marion@gmail.com",
+      "password": "123",
+      "name": "Marion",
+      "id": 8
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 11111,
+      "address": "Malingo street"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 22222,
+      "address": "Mayor street"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 33333,
+      "address": "Bomaka street"
+    },
+    {
+      "name": "RCB restau",
+      "address": "Muea Stress",
+      "contact": "44444",
+      "id": 4
+    },
+    {
+      "name": "Starbucks",
+      "address": "Class Quarters",
+      "contact": "55555",
+      "id": 5
+    },
+    {
+      "name": "McDonalds",
+      "address": "Buea Town",
+      "contact": "66666",
+      "id": 6
+    },
+    {
+      "name": "Kitopi",
+      "address": "Al Quos 4",
+      "contact": "77777",
+      "id": 7
+    },
+    {
+      "name": "burger lord",
+      "address": "tr@mksl",
+      "contact": "jjbdksjsakjw",
+      "id": 8
+    }
+  ]
+}
