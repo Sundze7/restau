@@ -47,6 +47,12 @@
       "password": "123",
       "name": "Marion",
       "id": 8
+    },
+    {
+      "email": "sundze@gmail.com",
+      "password": "12345",
+      "name": "Sundze",
+      "id": 9
     }
   ],
   "restaurant": [
